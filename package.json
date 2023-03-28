@@ -1,20 +1,26 @@
 {
   "name": "socialnetworkapi",
   "version": "1.0.0",
-  "description": "A social media API built using MongoDB, Mongoose, Express, and Node.js.",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kyleschop/socialNetworkAPI.git"
+      "type": "git",
+      "url": "https://github.com/E11Evated"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kyleschop/socialNetworkAPI/issues"
+      "url": "https://github.com/E11Evated/socialMedia"
   },
-  "homepage": "https://github.com/kyleschop/socialNetworkAPI#readme"
+  "homepage": "https://github.com/E11Evated/socialMedia/new/main?readme=1",
+  "dependencies": {
+      "express": "^4.17.3",
+      "moment": "^2.29.3",
+      "mongoose": "^6.1.4"
+  }
 }
